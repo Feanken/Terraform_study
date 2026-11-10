@@ -1,0 +1,16 @@
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/*.tfvars
+**/*.tfvars.json
+**/provider-schema.json
+**/*.tfplan
+**/crash.log
+**/crash.*.log
+
+# Secrets
+**/.env
+**/.env.*
+**/*.pem
+**/*.key
